@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Repository related ignored files
+# Solutions
+pyomo_workshop/exercises_w_soln/*
